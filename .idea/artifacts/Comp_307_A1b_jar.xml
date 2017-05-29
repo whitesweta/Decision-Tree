@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Comp 307 A1b:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Comp_307_A1b_jar</output-path>
+    <root id="archive" name="Comp 307 A1b.jar">
+      <element id="module-output" name="Comp 307 A1b" />
+    </root>
+  </artifact>
+</component>
